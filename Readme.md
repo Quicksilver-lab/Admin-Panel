@@ -2,7 +2,7 @@
 
 A responsive admin panel created using HTML, CSS, and JavaScript. This admin panel provides a user-friendly interface for managing various aspects of your application or website. It includes customizable components and a clean design, making it easy to integrate into your project.
 
-![Admin Panel Preview](Preview.png)
+![Admin Panel Preview](Preview.jpg)
 
 ## Features
 
